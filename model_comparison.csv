@@ -1,0 +1,4 @@
+Model,Accuracy
+Decision Tree,0.8199900546991546
+SVM,0.8095474888115366
+Logistic Regression,0.8057351234874855
